@@ -39,6 +39,6 @@
   <br />
   
   ![YujunSun0's GitHub stats](https://github-readme-stats.vercel.app/api?username=YujunSun0&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YujunSun0&layout=compact)](https://github.com/YujunSun0/github-readme-stats)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suafjwe1)](https://solved.ac/suafjwe1/)
   
 </div>
