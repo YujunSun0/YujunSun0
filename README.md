@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=soft&text=YujunSun0&customColorList=idx2&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&text=YujunSun&customColorList=idx2&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=10000&width=520&lines=%F0%9F%91%8B+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
   
