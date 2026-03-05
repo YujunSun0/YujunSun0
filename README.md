@@ -2,54 +2,83 @@
 
 # 👋 Hi, I'm Yujun Sun
 
-Frontend Developer focused on **React / Next.js**  
-Building products with **AI & Web technologies**
+Frontend Developer building **AI-powered Web Products**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F7FFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+AI+Learning+Platforms)](https://git.io/typing-svg)
 
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YujunSun0&color=blue"/>
+
+</p>
 </div>
 
----
 
 # 🚀 About Me
 
 - 🇰🇷 Frontend Developer
-- ⚛️ React / Next.js 기반 서비스 개발
-- 🤖 AI 기반 프로그래밍 지식 학습 서비스 제작 중
-- 📚 매일 일본어 공부 중
+- ⚛️ Building services with **React / Next.js**
+- 🤖 Developing an **AI-powered programming learning platform**
+- 📚 Studying **Japanese every day**
 
----
+
+# 🌐 Blog
+
+<p align="left">
+
+<a href="https://yujunsun.tech">
+<img src="https://img.shields.io/badge/Blog-yujunsun.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="left">
+
+<a href="https://velog.io/@yujunsun0">
+<img src="https://velog-readme-stats.vercel.app/api/badge?name=YujunSun0"/>
+</a>
+
+</p>
+
 
 # 🛠 Tech Stack
 
-### Languages
+### Core
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts" />
 </p>
 
-### Frontend
+### State / Data
+
+React Query · Zustand · Redux Toolkit
+
+### Styling
+
+TailwindCSS · Styled Components
+
+### DevOps
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,figma" />
 </p>
 
-### DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=aws,figma,git,github" />
-</p>
+### Others
 
----
+Python (Web Scraping)
+
 
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YujunSun0&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YujunSun0&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YujunSun0&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YujunSun0&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 
 </p>
 
----
 
 # 🔥 Contribution Streak
 
@@ -57,29 +86,15 @@ Building products with **AI & Web technologies**
 <img src="https://streak-stats.demolab.com?user=YujunSun0&theme=tokyonight"/>
 </p>
 
----
-
-# 📝 Blog
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=YujunSun0)](https://velog.io/@yujunsun0)
-
----
 
 # 🏆 Algorithm
 
+<p align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suafjwe1)](https://solved.ac/suafjwe1/)
 
----
+</p>
 
-# 👀 Visitors
-
-<img src="https://komarev.com/ghpvc/?username=YujunSun0&color=blue"/>
-
----
-
-# 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YujunSun0&theme=tokyo-night"/>
 
 # 🐍 Contribution Snake
 
