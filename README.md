@@ -27,7 +27,7 @@ Frontend Developer building **AI-powered Web Products**
 
 <p align="left">
 
-<a href="https://yujunsun.tech">
+<a href="https://yujunsun.tech" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Blog-yujunsun.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
