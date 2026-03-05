@@ -79,4 +79,8 @@ Building products with **AI & Web technologies**
 
 # 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/YujunSun0/YujunSun0/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YujunSun0/YujunSun0/output/github-contribution-grid-snake.svg">
+
+</p>
