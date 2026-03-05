@@ -1,45 +1,82 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=soft&text=YujunSun&customColorList=idx2&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=10000&width=520&lines=%F0%9F%91%8B+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
-  
-  
-  <br />
-  
- ### ⚒️ **Tech Stack** ⚒️   
-  
-  
-  #### 📋 Languages
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23FFE953)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 👋 Hi, I'm Yujun Sun
 
-  
-  
-  <br />
-  
-  #### 📚 Frameworks, Platforms and Libraries
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-  <img src="https://img.shields.io/badge/Redux Toolkit-8B56E6?style=for-the-badge&logo=redux&logoColor=white">
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-  
-  <br />
-  
-  #### 🛠️ Tools & DevOps
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  <img src="https://img.shields.io/badge/AWS s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS cloudfront-8B56E6?style=for-the-badge&logo=amazoncloudwatch&logoColor=white">
-  
-####  ••• 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=YujunSun0)](https://velog.io/@yujunsun0)
-  
-  
-  <br />
-  
-  ![YujunSun0's GitHub stats](https://github-readme-stats.vercel.app/api?username=YujunSun0&show_icons=true&theme=dracula)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suafjwe1)](https://solved.ac/suafjwe1/)
-  
+Frontend Developer focused on **React / Next.js**  
+Building products with **AI & Web technologies**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F7FFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+AI+Learning+Platforms)](https://git.io/typing-svg)
+
 </div>
+
+---
+
+# 🚀 About Me
+
+- 🇰🇷 Frontend Developer
+- ⚛️ React / Next.js 기반 서비스 개발
+- 🤖 AI 기반 프로그래밍 지식 학습 서비스 제작 중
+- 📚 매일 일본어 공부 중
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
+</p>
+
+### DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=aws,figma,git,github" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YujunSun0&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YujunSun0&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YujunSun0&theme=tokyonight"/>
+</p>
+
+---
+
+# 📝 Blog
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=YujunSun0)](https://velog.io/@yujunsun0)
+
+---
+
+# 🏆 Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suafjwe1)](https://solved.ac/suafjwe1/)
+
+---
+
+# 👀 Visitors
+
+<img src="https://komarev.com/ghpvc/?username=YujunSun0&color=blue"/>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/YujunSun0/YujunSun0/output/github-contribution-grid-snake.svg)
