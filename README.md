@@ -77,6 +77,10 @@ Building products with **AI & Web technologies**
 
 ---
 
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YujunSun0&theme=tokyo-night"/>
+
 # 🐍 Contribution Snake
 
 <p align="center">
