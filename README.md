@@ -74,7 +74,6 @@ Python (Web Scraping)
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YujunSun0&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YujunSun0&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 
 </p>
@@ -82,9 +81,7 @@ Python (Web Scraping)
 
 # 🔥 Contribution Streak
 
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=YujunSun0&theme=tokyonight"/>
-</p>
 
 
 # 🏆 Algorithm
