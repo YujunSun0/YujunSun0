@@ -79,11 +79,6 @@ Python (Web Scraping)
 </p>
 
 
-# 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=YujunSun0&theme=tokyonight"/>
-
-
 # 🏆 Algorithm
 
 <p align="center">
