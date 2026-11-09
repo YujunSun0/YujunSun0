@@ -86,12 +86,3 @@ Python (Web Scraping)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suafjwe1)](https://solved.ac/suafjwe1/)
 
 </p>
-
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YujunSun0/YujunSun0/output/github-contribution-grid-snake.svg">
-
-</p>
